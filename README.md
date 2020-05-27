@@ -1,2 +1,1 @@
-# Groceryapp-Deployment
-Heroku Depolyment Activity
+# groceryapp
